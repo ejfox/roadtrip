@@ -1,7 +1,7 @@
 ---
 title: "Inauguration"
 location: "Washington, DC"
-date: 2016-01-20 00:02:30 -0500
+date: 2017-01-20 00:02:30 -0500
 categories: roadtrip
 layout: post
 day: 1
