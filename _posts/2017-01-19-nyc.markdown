@@ -1,0 +1,37 @@
+---
+title: "Starting Point"
+location: "New York, NY"
+date: 2016-01-19 00:02:30 -0500
+categories: roadtrip
+layout: post
+day: 0
+lat: 40.7128
+lon: -74.0059
+state: NY
+---
+# Where I'm From
+
+I grew up in Orange County, NY. It's upstate New York, about a hundred miles north of the city. It's the home of a combination of old family farmers, people commuting to the city or escaping it, outdoorsy types, and people who proudly call themselves rednecks. 
+
+I grew up with kids whose parents were cops or firefighters, commuting into the city. Many were first responders on 9/11. It's New York, so people are generally progressive. But it's also the country, people hunt, care about their guns, and lean conservative as they get older. Just like any other small town, I think. 
+
+It's a wonderful little microcosm of America and I was lucky to grow up there.
+
+It's also why I wasn't too surprised when Donald Trump was elected. I had seen the Trump signs when I went home, on more lawns than I would have imagined. These were not the media cliche of Trump supporters. If my home town could be Trump country, it was easy to imagine the rest of the country would be. And it was, with him winning with 51.2% <span class="sparkline" sparkType="pie" values="51,49"></span> of my home county's vote.
+<img src="/images/01_ny/orangecounty-2012to2016.png" />
+
+
+<small><a href="http://www.nytimes.com/elections/results/president">Presidential Results from NYT</a></small>
+
+## Why I'm Taking This Trip
+
+
+## More Elsewhere
+
++ I did an [interview with a guy](http://ejfox.com/photos/) at blah blah.
++ I did facebook live [at this cool spot](http://ejfox.com/photos/).
++ I wrote a [medium post](http://ejfox.com/photos/) about my thoughts on some thing.
+
+### Additional Reading
++ Any other interesting links
++ Found during research of location

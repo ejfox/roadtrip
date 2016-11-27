@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Shrikhand" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.path }}/css/toolkit.css" >
+  <link rel="stylesheet" href="{{ site.path }}/css/style.css" >
+
+  <meta name="description" content="{{ page.title }} | Day {{ page.day }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="news_keywords" content="roadtrip, journalism, driving, america, photography, photojournalism" />
+  <!-- https://support.google.com/news/publisher/answer/191283?hl=en -->
+  <meta name="standout" content="http://ejfox.com/roadtrip/{{ page.url }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:site_name" content="Storysettings" />
+  <meta property="og:description" content="Driving cross country. Update: {{ page.title }} | Day {{ page.day }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:url" content="http://ejfox.com/roadtrip/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{ site.path }}/images/{{ page.featureimage }}" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="EJ Fox" />
+  <meta name="twitter:title" content="Road Trip" />
+  <meta name="twitter:description" content="{{ page.title }} | Day {{ page.day }}" />
+  <meta name="twitter:creator" content="EJ Fox" />
+  <meta name="twitter:domain" content="http://ejfox.com/roadtrip/" />
+  <meta name="twitter:image:src" content="{{ site.path }}/images/{{ page.featureimage }}" />
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.css' rel='stylesheet' />  
+  
+</head>
+
+<body>
+
+<header>
+
+<div class="home">
+  <h4><a href="/">&laquo; drive.ejfox.com</a></h4>
+</div>
+
+  
+<div class="stop-navigation">
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; Day {{page.previous.day}}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">Day {{page.next.day}} &raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+<div class="topbar">
+  <h1>{{page.location}} <br /> <span class="stateface stateface-{{page.state | slugify}}"></span></h1>
+  <h4>Day {{page.day}} – {{ page.date | date: "%B %-d, %Y" }}</h4>
+</div>
+
+{% if page.featureimage %}
+<div data-sset="story-header" class="story-header">
+  <div id="js-article-intro" class="story-header__intro">
+    {% if page.title %}
+    <!-- <h1>{{ page.title }}</h1> -->
+    {% endif %}
+  </div>
+  <img src="{{ site.path }}/images/{{ page.featureimage }}" alt="{{ page.title }}" class="article-header__bg">
+</div>
+{% endif %}
+
+<!--
+<div class="progress-viz">
+  Horizontal viz of progress
+</div>
+-->
+  
+{% if page.lat %}
+  <div class="map-container">
+    <div id="map" class="location-map" data-lat="{{ page.lat }}" data-lon="{{ page.lon }}"></div>
+    <!-- <small class="light">See <a href="#">map of the complete trip here</a>. -->
+  </div>  
+{% endif %}
+</header>
+
+<main>
+
+  <div class="content story__body">
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ content }}
+  </div>
+</main>
+
+<div class="stop-navigation">
+  <div class="PageNavigation">
+    {% if page.previous.url %}
+      <a class="prev" href="{{page.previous.url}}">&laquo; Day {{page.previous.day}} — {{page.previous.location}} <span class="stateface stateface-{{page.previous.state | slugify}}"></a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next" href="{{page.next.url}}">Day {{page.next.day}} — {{page.next.location}} <span class="stateface stateface-{{page.next.state | slugify}}"> &raquo;</a>
+    {% endif %}
+  </div>
+</div>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
+
+<script src='{{ site.path }}/js/jquery.sparkline.min.js'></script>
+<!-- <script src="{{ site.path }}/js/toolkit.js"></script> -->
+<script src="{{ site.path }}/js/roadtrip.js"></script>
+
+</body>
+</html>

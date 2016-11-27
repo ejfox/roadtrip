@@ -1,0 +1,42 @@
+stopid,Location name,State,Days At Location,trip,lat,lon
+0,New York City,NY,0,1,40.7128,-74.0059
+1,"Washington, DC",MD,2,1,38.9072,-77.0369
+2,Raleigh,NC,1,1,35.7796,-78.6382
+3,Fayetteville,NC,1,1,35.0527,-78.8784
+4,Asheville,NC,2,1,35.5951,-82.5515
+5,Nantahala National Forest,NC,3,1,35.2338,-83.5593
+6,Atlanta,GA,2,1,33.7490,-84.3880
+7,Savannah,GA,4,1,32.0835,-81.0998
+8,Montgomery,AL,1,1,32.3668,-86.3000
+9,Selma,AL,1,1,32.4074,-87.0211
+10,De Soto National Forest,MS,5,1,31.0669,-88.9833
+11,New Orleans,LA,3,1,29.9511,-90.0715
+12,Sabine National Forest,TX,5,1,31.4439,-93.7700
+13,Dallas,TX,0,1,32.7767,-96.7970
+14,Amarillo,TX,1,1,35.2220,-101.8313
+15,Colorado Springs,CO,2,1,38.8339,-104.8214
+16,Denver,CO,2,1,39.7392,-104.9903
+17,Boulder,CO,2,1,40.0150,-105.2705
+18,Grand Mesa,CO,1,1,39.0403,-107.9498
+19,Bryce,UT,5,1,37.6728,-112.1573
+20,Zion National Park,UT,7,1,37.2982,-113.0263
+21,Las Vegas,NV,3,1,36.1699,-115.1398
+22,Mojave National Preserve,CA,3,1,35.0110,-115.4734
+23,Los Angeles,CA,2,1,34.0522,-118.2437
+24,Yosemite National Park,CA,5,1,37.8651,-119.5383
+25,San Francisco,CA,6,1,37.7749,-122.4194
+26,Mendocino National Forest,CA,3,2,39.6530,-122.9496
+27,Redwoods National Forest,CA,3,2,41.2132,-124.0046
+28,Eugene,OR,1,2,44.0521,-123.0868
+29,Portland,OR,1,2,45.5231,-122.6765
+30,Olympia,WA,3,2,47.0379,-122.9007
+31,Mt Hood National Forest,OR,2,2,45.3300,-121.7089
+32,Grand Teton National Park,WY,3,2,43.7904,-110.6818
+33,Yellowstone National Park,WY,3,2,44.4280,-110.5885
+34,Wind River Reservation,WY,1,2,43.2833,-108.8340
+35,Black Hills,SD,7,2,43.9939,-103.7718
+36,Chicago,IL,2,2,41.8781,-87.6298
+37,Detroit,MI,3,2,42.3314,-83.0458
+38,Toronoto,ON,1,2,43.6532,-79.3832
+39,Niagra Falls,NY,1,2,43.0962,-79.0377
+40,New York City,NY,0,2,40.7128,-74.0059

@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link href="https://fonts.googleapis.com/css?family=Merriweather:400,700|Shrikhand" rel="stylesheet">
+  <link rel="stylesheet" href="{{ site.path }}/css/toolkit.css" >
+  <link rel="stylesheet" href="{{ site.path }}/css/style.css" >
+
+  <meta name="description" content="{{ page.title }} | Day {{ page.day }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="news_keywords" content="roadtrip, journalism, driving, america, photography, photojournalism" />
+  <!-- https://support.google.com/news/publisher/answer/191283?hl=en -->
+  <meta name="standout" content="http://ejfox.com/roadtrip/{{ page.url }}" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:site_name" content="Storysettings" />
+  <meta property="og:description" content="Driving cross country. Update: {{ page.title }} | Day {{ page.day }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:url" content="http://ejfox.com/roadtrip/{{ page.url }}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{ site.path }}/images/{{ page.featureimage }}" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="EJ Fox" />
+  <meta name="twitter:title" content="Road Trip" />
+  <meta name="twitter:description" content="{{ page.title }} | Day {{ page.day }}" />
+  <meta name="twitter:creator" content="EJ Fox" />
+  <meta name="twitter:domain" content="http://ejfox.com/roadtrip/" />
+  <meta name="twitter:image:src" content="{{ site.path }}/images/{{ page.featureimage }}" />
+
+
+  <script src='https://api.mapbox.com/mapbox-gl-js/v0.27.0/mapbox-gl.js'></script>
+  <link href='https://api.mapbox.com/mapbox-gl-js/v0.27.0/mapbox-gl.css' rel='stylesheet' /> 
+</head>
+<body>
+
+<div id="full-trip-map">
+  {% for post in site.posts %}
+  <li class="map-stop" 
+      data-lat="{{ post.lat }}" 
+      data-lon="{{ post.lon }}" 
+      data-title="{{ post.title }}" 
+      data-url="{{ post.url }}"
+      data-location="{{ post.location }}"
+  >
+  </li>
+  {% endfor %}
+
+  <div id="map" style="width: 100%; height: 400px;"> 
+    
+  </div>
+</div>
+
+<main>
+
+  <!-- 
+  <div id="progress-viz">
+    Horizontal viz of progress
+  </div>
+
+  -->
+
+  <div class="latest-post"> 
+    {% for post in site.posts limit:1 %}
+      <a href=" {{post.url}}">Latest post from {{post.location}}</a> 
+      <br>
+      <small>Day {{post.day }} – {{ post.date | date: "%B %-d, %Y" }}</small>
+    {% endfor %}
+  </div>
+
+  <div id="content">
+    <p>
+      My name is EJ Fox. I'm driving across the U.S. to take photos and talk to people. This site collects my experiences.
+    </p>
+
+    <h3>Posts</h3>
+    <ul class="post-list">
+      {% for post in site.posts %}
+      <li>
+        <h5 class="light">{{ post.date | date: '%B %d, %Y' }} <span class="postlist-location">— {{ post.location }}</span> </h5>
+        Day {{ post.day }}
+        <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+  </div>
+
+  <!-- 
+  <div id="content">
+    {{ content }}
+  </div>
+  -->
+</main>
+
+<footer>
+  <div id="get-in-touch">
+  <p>Tweet at me: <a href="https://twitter.com/mrejfox">@mrejfox</a></p>
+  <p>Or email me: ejfox@ejfox.com</p>
+  </div>
+</footer>
+
+<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'></script>
+<script src="{{ site.path }}/js/homepage.js"></script>
+
+</body>
+</html>
