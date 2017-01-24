@@ -20,7 +20,9 @@ The people who live in Washington, DC voted resoundingly for Clinton. She got 92
 I was surprised to see the discussion that emerged organically as Trump supporters coming through the checkpoint for the parade route passed the plaza the protest was in. 
 
 As I [wrote in my photo blog](http://ejfox.com/photos/trump-inauguration/):
-> I immediately noticed these two men who had wandered in the middle and were having loud discussions with crowds of protesters. I watched for a few minutes my worry turned to joy. Their disagreement was loud and passionate- but rarely disrespectful. I’ve watched people argue on Twitter and Facebook over these exact issues for over a year now. These strangers were able to have a more coherent and respectful discussion face-to-face. “That’s what America’s about!” I thought.
+> I immediately noticed these two men who had wandered in the middle and were having loud discussions with crowds of protesters. I watched for a few minutes and my worry turned to joy. Their disagreement was loud and passionate- but rarely disrespectful. These strangers were able to have a more coherent and respectful discussion face-to-face. 
+
+> “That’s what America’s about!” I thought.
 
 It makes me optimistic for my trip. I want to travel the country and have these sorts of discussions. When talking to friends and family about my trip some had expressed worry or dismay that I would be arguing with strangers and potentially be in danger. I think that as long as you're respectful, dialogue, however vehement, is part of being American. 
 
