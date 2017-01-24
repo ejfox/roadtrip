@@ -1,9 +1,15 @@
 _site
 .sass-cache
 .jekyll-metadata
+<<<<<<< HEAD
 
 _posts/.DS_Store
 
 .DS_Store
+
+.DS_Store
+=======
+/.DS_Store
+>>>>>>> origin/master
 
 .DS_Store

@@ -11,19 +11,41 @@ state: NY
 ---
 # Where I'm From
 
-I grew up in Orange County, NY. It's upstate New York, about a hundred miles north of the city. It's the home of a combination of old family farmers, people commuting to the city or escaping it, outdoorsy types, and people who proudly call themselves rednecks. 
+I grew up in Orange County, NY. It's upstate New York, about a hundred miles north of the city. It's the home of a combination of old family farmers, people commuting to the city or escaping it, outdoorsy types, and people who proudly call themselves rednecks. I grew up camping, spending my summers around campfires and playing with knives.
 
-I grew up with kids whose parents were cops or firefighters, commuting into the city. Many were first responders on 9/11. It's New York, so people are generally progressive. But it's also the country, people hunt, care about their guns, and lean conservative as they get older. Just like any other small town, I think. 
+I grew up with kids whose parents were cops or firefighters, commuting into the city. Families that had moves up from the Bronx or Staten Island. Many were first responders on 9/11. 
+
+It's New York, so people are generally progressive. But it's also the country. People hunt, care about their guns, and lean conservative as they get older. Just like any other small town, I think. 
 
 It's a wonderful little microcosm of America and I was lucky to grow up there.
 
-It's also why I wasn't too surprised when Donald Trump was elected. I had seen the Trump signs when I went home, on more lawns than I would have imagined. These were not the media cliche of Trump supporters. If my home town could be Trump country, it was easy to imagine the rest of the country would be. And it was, with him winning with 51.2% <span class="sparkline" sparkType="pie" values="51,49"></span> of my home county's vote.
-<img src="/images/01_ny/orangecounty-2012to2016.png" />
+### Trump Country
+
+It's also why I wasn't too surprised when Donald Trump was elected. I'd seen Trump signs when I went home, on more lawns than I would have imagined. These were not the media cliche of rabid Trump supporters- these were the people I grew up with. Talking about folks back home you had to unfollow on Facebook worked it's way into the grab bag of New York City smalltalk. I unfollowed a few people, not wanting to argue with people I felt I agreed with on nearly every other thing but the election.
+
+It was around the time in the summer when Ted Cruz was beginning to fall ungracefully from Republican primary race. Trump had just insinuated Ted Cruz's father helped JFK's assassin, and as I cruised around my childhood town in my first car, it seemed like America was tearing itself apart. Not just liberal vs democrat, or red vs blue, but radical republicans vs establishment republicans. All sorts of cultural lines being redrawn across the spectrum, and not all of them tied to the election. But the election was definitely bringing a rat's nest of intertwined issues to the surface. 
+
+If my home town could be Trump country, it was easy to imagine the rest of the country would be. It was at this point in the summer, before anyone could pretend to predict what the results of the election might be, that I decided I wanted to take a trip and travel across the US. But I wanted to take the time to talk to people, to understand what people were thinking. 
+
+### Roadtrips
+
+I've traveled the US before. As a kid, my parents took me on road trips to show me America's wonders and National Parks. We visited Zion, Mount Rushmore, and my favorite, even as an 8-year-old: the Black Hills of South Dakota. When I was 18 I drove across the US again, this time with all my belongings in the back of my trusty Honda Element. I had just gotten a job in San Francisco and my best friend joined me for the adventure. He learned to drive manual on my car in the first leg of the trip, where we did a Chinese fire drill at a New Jersey Turnpike tollbooth and cars honked until he learned how to use the clutch, which he did very quickly.
+
+### America
+
+I love America, and being American. I grew up as a teenager in the Bush era, and during the wave of post-9/11 nationalism and flags in your car windows, in the counter-culture loving America was kind of un-hip. People lovingly bemoaned how far our culture was behind Canada, or our health care paled in comparison to Europe. These things may be true, but god am I glad I am not Canadian or European. Like any good American, I believe that America is the cultural and economic center of the world. Like any good New Yorker, I believe New York is the cultural and economic center of America. 
+
+Growing up in a small town outside New York City, we always looked up to the big city, a meaningful train ride away, *The Place Where All The Things Happen*. When I moved to the Bay Area, I stumbled almost completely into the Silicon Valley ethos. Driving around the Google campus, or past Facebook's thumbs up sign, or dining with Apple employees that place felt like the center of the world, too. These companies affect the lives of billions of people. The time of powerhouses like GM, Chrysler, or even IBM were over. These tech companies are the new engines of American innovation.
+
+But even then, listening to ASAP Rocky's first mixtape on repeat (["Pretty Mothafucka / Harlem's what I'm reppin'"](http://genius.com/1239911)) and all eyes pointed at this brand new "Occupy Wall Street" thing, I still felt New York was *The Place Where All Things Happen*. I drove back to New York about a year later and moved to Brooklyn with my first job in journalism- which I was realizing was an industry that had all the fun teamwork and urgency of start-ups but worshipped a god of Truth rather than a god of Product. Much more my speed.
+
+But as this election unfolded I experienced most opinions from the rest of America in a few ways: quotes in articles by journalists following the campaigns, interviews on TV, and angry tweets from dads in Iowa who proclaimed their sports and political affiliations in their Twitter bios with equal vigor. Not only that, but none of the interviewers were really asking the questions I had. I realized it's been a while since I'd been anywhere but New York or San Francisco.
+
+I feel like my country has more culture and history than a person could experience in 10 very dedicated lifetimes. That said, despite the incredible variety in cultures, I've always felt there is a bond of a certain American-ness that goes across nearly every other cultural and geographic boundary we have in these United States. In my mind, that makes it perfect.
+
+Some people backpack across Europe, or fly to Rome or Paris when they want to travel. I love and respect the history don't get me wrong. But something about it doesn't feel like *my* history. Obviously in the grandest cross-continental multi-generational sense, it is, but it doesn't have that same grand glimmer. America has always been where people go to start a new story anyway. 
 
 
-<small><a href="http://www.nytimes.com/elections/results/president">Presidential Results from NYT</a></small>
-
-## Why I'm Taking This Trip
 
 ### Additional Reading
 + <a target="_blank" href="https://www.amazon.com/gp/product/B006BAW16O/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B006BAW16O&linkCode=as2&tag=ef0ca-20&linkId=5e3f03fa44c69702cfe41c9fb959186e">Blue Highways: A Journey into America</a>
