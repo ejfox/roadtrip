@@ -20,7 +20,7 @@ The people who live in Washington, DC voted resoundingly for Clinton. She got 92
 I was surprised to see the discussion that emerged organically as Trump supporters coming through the checkpoint for the parade route passed the plaza the protest was in. 
 
 As I [wrote in my photo blog](http://ejfox.com/photos/trump-inauguration/):
-> A few Trump supporters had wandered over to gawk from the edges, but I immediately noticed these two men who had wandered in the middle and were having loud discussions with crowds of protesters. As I watched for a few minutes my worry turned to joy. Their disagreement was loud and passionate- but rarely disrespectful. I’ve watched people argue on Twitter and Facebook over these exact issues for over a year now. But somehow these strangers were able to have a more coherent and respectful discussion face-to-face. “That’s what America’s about!” I thought.
+> I immediately noticed these two men who had wandered in the middle and were having loud discussions with crowds of protesters. I watched for a few minutes my worry turned to joy. Their disagreement was loud and passionate- but rarely disrespectful. I’ve watched people argue on Twitter and Facebook over these exact issues for over a year now. These strangers were able to have a more coherent and respectful discussion face-to-face. “That’s what America’s about!” I thought.
 
 It makes me optimistic for my trip. I want to travel the country and have these sorts of discussions. When talking to friends and family about my trip some had expressed worry or dismay that I would be arguing with strangers and potentially be in danger. I think that as long as you're respectful, dialogue, however vehement, is part of being American. 
 
@@ -40,8 +40,8 @@ Part of the reason I want to go on this trip is to talk to these people and try 
 ### Additional Reading
 + New Yorker: [The Gathering Storm Of Protest Against Trump](http://www.newyorker.com/news/news-desk/the-gathering-storm-of-protest-against-trump)
 + WSJ: [Donald Trump Strikes Nationalistic Tone in Inaugural Speech](http://www.wsj.com/articles/donald-trump-strikes-nationalistic-tone-in-inaugural-speech-1484957527)
-+ {% twitter https://twitter.com/KeeganNYC/status/822900412630073344 %} 
 + Vocativ: [Anarchist March Turns Violent](https://www.facebook.com/Vocativ/videos/1460003967345167/)
 + Vocativ: [Protests are becoming violent outside the inauguration of Donald J. Trump.](https://www.facebook.com/Vocativ/videos/1459739857371578/)
 + NBC: [How Trump Won](http://www.nbcnews.com/specials/donald-trump-republican-party/presidency)
 + ABC: [Richard Spencer Punched](https://www.facebook.com/abcnews.au/videos/10156091045769988/)
++ {% twitter https://twitter.com/KeeganNYC/status/822900412630073344 %} 
